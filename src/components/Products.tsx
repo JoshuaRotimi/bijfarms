@@ -1,4 +1,3 @@
-import banana from "../assets/banana-2.jpg";
 import palm from "../assets/palm-fruits.jpg";
 import fruits from "../assets/fruits.jpg";
 import pathway from "../assets/farm-2.jpg";
