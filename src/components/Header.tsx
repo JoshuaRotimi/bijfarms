@@ -15,8 +15,8 @@ const Header = () => {
           <p className="py-4 font-bold italic">
             Ready to explore our products?
           </p>
-          <Button color={"dark"} className={"w-fit"} href={"#contact"}>
-            Contact us
+          <Button color={"dark"} className={"w-fit"}>
+            <a href="#contact">Contact us</a>
           </Button>
         </div>
         <div className="lg:w-1/2 lg:px-4">
